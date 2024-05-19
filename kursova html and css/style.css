@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+}
+.spring {
+    margin: 0;
+}
+.menu {
+    height: 45px;
+    width: 100%;
+    background: rgba(219, 225, 225, 0.467);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu_buttons {
+    height: 45px;
+    width: 27%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.menu_link a {
+    text-decoration: none;
+}
+.icon {
+    width: 30px;
+    height: 30px;
+    margin-left: 200px;
+}
+.search {
+    height: 30px;
+    width: 30px;
+    margin-right: 200px;
+}
+.h1 {
+    width: 1950px;
+    height: 600px;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 27px;
+    background: rgb(253,187,45);
+    background: linear-gradient(0deg, rgba(253,187,45,1) 0%, rgba(34,193,195,1) 100%);
+}
+.icon_img,.search_img {
+    height: 100%;
+    width: 100%;
+}
+.chatgpt {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: none;
+    margin: 200px;
+    font-size: 25px;
+}
+.chat_img {
+    height: 450px;
+    width: 450px;
+    margin: 10px;
+    border-radius: 25px;
+}
+.h2 {
+    background-color: rgb(215, 234, 215);
+    color: black;
+    width: 1950px;
+    height: 600px;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 27px;
+}
+.end1 {
+background-color: red;
+}
+.end{
+    list-style: none;
+    background-color: aqua;
+    display: flex;
+    
+}
